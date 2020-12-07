@@ -1,0 +1,15 @@
+*format, edit interactions
+
+*fx => conditional formatting
+
+*matrix creates groups automatically
+
+*never group in transform data, only in visuals
+
+*split column by delimiter in transform data
+
+*in visualization: rename for this visual
+
+*filter top N
+
+*sometimes you need to create measures to calculate other DAX measures, see Premier League
