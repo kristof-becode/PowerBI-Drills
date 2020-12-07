@@ -8,6 +8,4 @@ A collection of reports and visualisations created during PowerBI training.
   </tr>
  </table>
 
-A collection of reports and visualisations created during PowerBI training.
-
 
